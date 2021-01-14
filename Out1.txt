@@ -1,0 +1,441 @@
+Current system time(cycles): 3582
+Total number of jobs executed: 100
+Average process waiting time: 1736
+Actual system time needed to execute all jobs: 0.051676308 seconds.
+
+Current system time(cycles): 36812
+Total number of jobs executed: 1000
+Average process waiting time: 18230
+Actual system time needed to execute all jobs: 0.358200322 seconds.
+
+Current system time(cycles): 363904
+Total number of jobs executed: 10000
+Average process waiting time: 182780
+Actual system time needed to execute all jobs: 44.061628536 seconds.
+
+
+-------------------
+...Now executing Job_1; Job length: 34 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 33 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 32 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 31 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 30 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 29 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 28 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 27 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 26 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 25 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 24 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 23 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 22 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 21 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 20 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 19 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 18 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 17 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 16 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 15 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 14 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 13 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 12 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 11 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 10 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 9 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 8 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 7 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 6 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 5 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 4 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 3 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 2 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+...Now executing Job_1; Job length: 1 cycles; Current remaining length: 35 cycles; Initial priority: 4; Current priority: 4
+-------------------
+Execution of Job_1 completed; Initial Job length: 35 cycles; Initial priority: 4; Entry Time: 0 cycles; Wait Time: 5 cycles; End Time: 40 cycles.
+-------------------
+...Now executing Job_2; Job length: 21 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 20 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 19 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 18 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 17 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 16 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 15 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 14 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 13 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 12 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 11 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 10 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 9 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 8 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 7 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 6 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 5 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 4 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 3 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 2 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+...Now executing Job_2; Job length: 1 cycles; Current remaining length: 22 cycles; Initial priority: 8; Current priority: 8
+-------------------
+Execution of Job_2 completed; Initial Job length: 22 cycles; Initial priority: 8; Entry Time: 1 cycles; Wait Time: 39 cycles; End Time: 62 cycles.
+-------------------
+...Now executing Job_3; Job length: 51 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 50 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 49 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 48 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 47 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 46 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 45 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 44 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 43 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 42 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 41 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 40 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 39 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 38 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 37 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 36 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 35 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 34 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 33 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 32 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 31 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 30 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 29 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 28 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 27 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 26 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 25 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 24 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 23 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 22 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 21 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 20 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 19 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 18 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 17 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 16 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 15 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 14 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 13 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 12 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 11 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 10 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 9 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 8 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 7 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 6 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 5 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 4 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 3 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 2 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+...Now executing Job_3; Job length: 1 cycles; Current remaining length: 52 cycles; Initial priority: 21; Current priority: 21
+-------------------
+Execution of Job_3 completed; Initial Job length: 52 cycles; Initial priority: 21; Entry Time: 2 cycles; Wait Time: 60 cycles; End Time: 114 cycles.
+-------------------
+New Priority given to Job_4
+-------------------
+...Now executing Job_4; Job length: 49 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 48 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 47 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 46 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 45 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 44 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 43 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 42 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 41 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 40 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 39 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 38 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 37 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 36 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 35 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 34 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 33 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 32 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 31 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 30 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 29 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 28 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 27 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 26 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 25 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 24 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 23 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 22 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 21 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 20 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 19 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 18 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 17 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 16 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 15 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 14 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 13 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 12 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 11 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 10 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 9 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 8 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 7 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 6 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 5 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 4 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 3 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 2 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+...Now executing Job_4; Job length: 1 cycles; Current remaining length: 50 cycles; Initial priority: 31; Current priority: 1
+-------------------
+Execution of Job_4 completed; Initial Job length: 50 cycles; Initial priority: 31; Entry Time: 3 cycles; Wait Time: 112 cycles; End Time: 165 cycles.
+-------------------
+...Now executing Job_5; Job length: 48 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 47 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 46 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 45 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 44 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 43 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 42 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 41 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 40 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 39 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 38 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 37 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 36 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 35 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 34 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 33 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 32 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 31 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 30 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 29 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 28 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 27 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 26 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 25 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 24 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 23 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 22 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 21 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 20 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 19 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 18 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 17 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 16 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 15 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 14 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 13 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 12 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 11 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 10 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 9 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 8 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 7 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 6 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 5 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 4 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 3 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 2 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+...Now executing Job_5; Job length: 1 cycles; Current remaining length: 49 cycles; Initial priority: 37; Current priority: 37
+-------------------
+Execution of Job_5 completed; Initial Job length: 49 cycles; Initial priority: 37; Entry Time: 4 cycles; Wait Time: 161 cycles; End Time: 214 cycles.
+--------------------------------------------------------------------------------------------
+Current system time(cycles): 214
+Total number of jobs executed: 5
+Average process waiting time: 75
+Actual system time needed to execute all jobs: 0.260051778 seconds.
+
+
